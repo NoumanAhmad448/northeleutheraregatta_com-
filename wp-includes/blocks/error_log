@@ -86,3 +86,7 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home1/thesunr8/public_html/website_a08c99d5/wp-includes/blocks/index.php on line 8
+[10-Oct-2024 04:29:29 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/thesunr8/public_html/website_a08c99d5/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/thesunr8/public_html/website_a08c99d5/wp-includes/blocks/index.php on line 8
