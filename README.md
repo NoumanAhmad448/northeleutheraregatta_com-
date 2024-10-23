@@ -1,24 +1,24 @@
-# development Guidlline
-## clear cache 
+# Development Guidlline
+
+## Clear cache 
 1. Visit cpanel and open the website.
 2. Go to the spped menu
 3. clear cache
 4. clear browser cache by ctrl+shift+delete
 5. for mobile browser, close the tab and open the website again
 
-or <hr>
+OR
+<hr>
 > [!TIP]
 > ```delete folder wp-contents/cache```
 
 OR
 > [!TIP]
-> ```
-disable cacche plugin 
-```
+> ```disable cache plugin ```
 
 
 
-# local setup
+## Local Setup
 
 url
 ```
