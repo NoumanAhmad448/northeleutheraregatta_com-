@@ -2,19 +2,22 @@
 
 ## Clear cache 
 1. Visit cpanel and open the website.
-2. Go to the spped menu
+2. Go to the speed menu
 3. clear cache
 4. clear browser cache by ctrl+shift+delete
 5. for mobile browser, close the tab and open the website again
 
 OR
-<hr>
+
 > [!TIP]
 > ```delete folder wp-contents/cache```
+<hr>
 
 OR
+
 > [!TIP]
 > ```disable cache plugin ```
+<hr/>
 
 
 
