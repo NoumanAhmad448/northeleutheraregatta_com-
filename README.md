@@ -6,14 +6,13 @@
 4. clear browser cache by ctrl+shift+delete
 5. for mobile browser, close the tab and open the website again
 
-or --
+or <hr>
 > [!TIP]
 > ```delete folder wp-contents/cache```
 
-OR --
+OR
 > [!TIP]
-> 
-```
+> ```
 disable cacche plugin 
 ```
 
